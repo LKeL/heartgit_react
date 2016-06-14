@@ -1,0 +1,16 @@
+'use strict';
+
+class IMComponent extends Component{
+    constructor() {
+
+    }
+    render(
+        <View>
+
+            <Text>
+                this is hahahah
+            </Text>
+        </View>
+    )
+}
+module.exports = IMComponent;
